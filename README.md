@@ -14,6 +14,9 @@ Paris It's a beautiful city in France with famous landmarks like **the Eiffel To
 ### My Favorite Vacation activites
 1. I like street food near the place.
 2. Capture iconic photos of the Eiffel Tower from different angles
-3. Enjoy Street Performersand musicians around the Eiffel Tower
- 
+3. Enjoy Street Performersand musicians around the Eiffel Tower.
 
+  - Food items
+    - Croissant
+    - Elderflower Cordial
+    - Butter Chicken
