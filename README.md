@@ -20,4 +20,16 @@ Paris It's a beautiful city in France with famous landmarks like **the Eiffel To
     - Croissant
     - Elderflower Cordial
     - Butter Chicken
-[Learn more about me](MyStats.md)
+[Learn more about me](MyStats.md)</br>
+
+---
+
+
+# Tables
+
+
+ |    Sports      |  Reason   |  Average week    |
+ |:----               | :------:   | ---------:   |
+ |  hiking            |allows you to connect       with natur and explore beautiful landscapes.| 3-4 hours|
+ |Tennis              |Tennis is a great sport for improving agility, hand-eye coordination,It's also a social activity that you can enjoy.|4-5 hours|
+ |Chess               |Chess is recommended for its ability to enhance strategic thinking and problem-solving skills while providing a mentally stimulating and enjoyable experience.|2-3hours               
