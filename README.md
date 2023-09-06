@@ -30,6 +30,7 @@ Paris It's a beautiful city in France with famous landmarks like **the Eiffel To
 
  |    Sports      |  Reason   |  Average week    |
  |:----               | :------:   | ---------:   |
- |  hiking            |allows you to connect       with natur and explore beautiful landscapes.| 3-4 hours|
+ |  Hiking            |allows us to connect       with natur and explore beautiful landscapes.| 3-4 hours|
  |Tennis              |Tennis is a great sport for improving agility, hand-eye coordination,It's also a social activity that you can enjoy.|4-5 hours|
- |Chess               |Chess is recommended for its ability to enhance strategic thinking and problem-solving skills while providing a mentally stimulating and enjoyable experience.|2-3hours               
+ |Chess               |Chess is recommended for its ability to enhance strategic thinking and problem-solving skills while providing a mentally stimulating and enjoyable experience.|2-3hours |
+ |Carroms| Playing carrom requires concentration and precision, improving mental focus.| 2-3 hour|              
