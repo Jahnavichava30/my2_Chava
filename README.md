@@ -16,7 +16,8 @@ Paris It's a beautiful city in France with famous landmarks like **the Eiffel To
 2. Capture iconic photos of the Eiffel Tower from different angles
 3. Enjoy Street Performersand musicians around the Eiffel Tower.
 
-  - Food items
+  Food items are
+
     - Croissant
     - Elderflower Cordial
     - Butter Chicken
