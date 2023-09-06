@@ -20,3 +20,4 @@ Paris It's a beautiful city in France with famous landmarks like **the Eiffel To
     - Croissant
     - Elderflower Cordial
     - Butter Chicken
+[Learn more about me](MyStats.md)
