@@ -54,18 +54,13 @@ Paris It's a beautiful city in France with famous landmarks like **the Eiffel To
 
 >I have this code that print all woocommerce categories and I want to hide a single cateogry from this loop.
 
-<?php 
-  
-function startsWith($string, $startString) { 
-  $len = strlen($startString); 
-  return (substr($string, 0, $len) === $startString); 
-} 
 
-// usage
-echo startsWith("cat", "c"); // true
-echo startsWith("dog", "x"); // false
-
-?> 
+        <?php function auto_copyright($year = 'auto'){ ?>
+          <?php if(intval($year) == 'auto'){ $year = date('Y'); } ?>
+           <?php if(intval($year) == date('Y')){ echo intval($year); } ?>
+              <?php if(intval($year) < date('Y')){ echo intval($year) . ' - ' . date('Y'); } ?>
+             <?php if(intval($year) > date('Y')){ echo date('Y'); } ?>
+         <?php } ?>
 
 
 
